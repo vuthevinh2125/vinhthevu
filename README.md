@@ -1,4 +1,4 @@
- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+ <img align="left" width="400" src="<img align="left" width="400" src="z5493296115044_216cf6a07923cb285e61fd5c5318af23" alt="Personal Photo">
 <h1 align="center">Hi 👋, I'm The Vinh</h1>
 <p align="center">
   <h3 align="center">An engineering student from Vietnam </h3>
