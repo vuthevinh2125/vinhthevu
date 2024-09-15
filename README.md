@@ -46,16 +46,16 @@
           </p>
         </li>
         <li>
-          <a href="https://example.com/tinh-nguyen-vien" target="_blank">
-            <strong>Tình nguyện viên:</strong> Tham gia các hoạt động tình nguyện tại địa phương, hỗ trợ cộng đồng.
+          <a href="https://www.facebook.com/thiennnguyensinhvien" target="_blank">
+            <strong>Volunteer:</strong> Charitable contributions to localities and communities.
           </a>
           <p align="center">
-            <img src="https://example.com/images/volunteer.jpg" alt="Tình nguyện viên" width="80%"/>
+            <img src="https://example.com/images/volunteer.jpg" alt="Volunteer" width="80%"/>
           </p>
         </li>
         <li>
-          <a href="https://example.com/doi-bong" target="_blank">
-            <strong>Thể thao:</strong> Thành viên đội bóng đá của trường, tham gia các giải đấu giao lưu.
+          <a href="https://www.facebook.com/intergreatvietnam" target="_blank">
+            <strong>Ambassador:</strong> Ambassador.
           </a>
           <p align="center">
             <img src="https://example.com/images/soccer_team.jpg" alt="Đội bóng đá" width="80%"/>
