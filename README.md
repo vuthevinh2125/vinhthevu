@@ -110,7 +110,7 @@
         </li>
        <li>
           <a href="https://www.facebook.com/internationalmodelun" target="_blank">
-            <strong>Asia Youth International MUN strong> Official Delegate.
+            <strong>Asia Youth International MUN :</strong> Official Delegate.
           </a>
           <p align="center">
             <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
