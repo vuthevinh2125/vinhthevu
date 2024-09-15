@@ -1,13 +1,13 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm The Vinh</h1>
 <p align="center">
-  <h3 align="center">An engineering student from Vietnam 🇻🇳 </h3>
+  <h3 align="center">An engineering student from Vietnam </h3>
 </p>
 
 
 - ✍ I'm a student of: [University of Greenwich](https://www.gre.ac.uk/) (Gre).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning Studies Computer Science & Engineering (CSE)
 
 <br />
 
