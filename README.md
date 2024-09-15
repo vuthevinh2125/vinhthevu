@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
    <a href="https://www.instagram.com/the.vinh.2125" alt="Instagram">
-    <img src="assets/images/your_image.jpg" alt="![image]" />
+    <img src="assets/images/your_image.jpg" alt="[image](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)]"/>
 
 
 </p>
