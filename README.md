@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [University of Greenwich](https://www.gre.ac.uk/) (Gree).
+- ✍ I'm a student of: [University of Greenwich](https://www.gre.ac.uk/) (Gre).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
