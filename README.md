@@ -25,6 +25,9 @@
   <a href="vinhvu.forwork@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+   <a href="https://www.instagram.com/the.vinh.2125" alt="Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram.png"/>
+  
 </p>
 
 ## Activities:
