@@ -34,16 +34,58 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <h2>Hoạt động ngoại khóa</h2>
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/greenwichitclub" target="_blank">
+            <strong>Câu lạc bộ Công nghệ:</strong> Tham gia và đóng góp vào các dự án công nghệ của trường.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/tech_club.jpg" alt="Câu lạc bộ Công nghệ" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://example.com/tinh-nguyen-vien" target="_blank">
+            <strong>Tình nguyện viên:</strong> Tham gia các hoạt động tình nguyện tại địa phương, hỗ trợ cộng đồng.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/volunteer.jpg" alt="Tình nguyện viên" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://example.com/doi-bong" target="_blank">
+            <strong>Thể thao:</strong> Thành viên đội bóng đá của trường, tham gia các giải đấu giao lưu.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/soccer_team.jpg" alt="Đội bóng đá" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://example.com/am-nhac" target="_blank">
+            <strong>Âm nhạc:</strong> Tham gia biểu diễn và tổ chức sự kiện âm nhạc tại trường.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/music_event.jpg" alt="Sự kiện Âm nhạc" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://example.com/hoi-thao" target="_blank">
+            <strong>Hội thảo:</strong> Tham dự và tổ chức các buổi hội thảo về phát triển bản thân và kỹ năng mềm.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+      </ul>
     </td>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      <p align="center">
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="extracurricular" width="100%"/>
       </p>
     </td>
   </tr>
 </table>
+
 
 # Certificates:
 
