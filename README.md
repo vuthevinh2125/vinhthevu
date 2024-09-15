@@ -13,8 +13,6 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vinh-v%C5%A9-533610304/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -26,7 +24,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
    <a href="https://www.instagram.com/the.vinh.2125" alt="Instagram">
-    <img src="https://img.icons8.com/fluent/48/000000/![image]/>
+    <img src="https://img.icons8.com/fluent/48/000000/instagram.png"/>
 "/>
 </p>
 
