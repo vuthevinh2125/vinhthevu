@@ -41,13 +41,12 @@
             <strong>Greenwich IT Club:</strong> Head of Content and Planning
           </a>
           <p align="center">
-            <img src=![image](https://github.com/user-attachments/assets/0bc15fd0-93bd-4b5f-92a9-46975686249e)
-" alt="Câu lạc bộ Công nghệ" width="80%"/>
+            <img src=![image](https://github.com/user-attachments/assets/0bc15fd0-93bd-4b5f-92a9-46975686249e)" alt="Câu lạc bộ Công nghệ" width="80%"/>
           </p>
         </li>
         <li>
           <a href="https://www.facebook.com/thiennnguyensinhvien" target="_blank">
-            <strong>Volunteer:</strong> Charitable contributions to localities and communities.
+            <strong>Quỹ Thiện Nguyện Sinh Viên:</strong> Charitable contributions to localities and communities.
           </a>
           <p align="center">
             <img src="https://example.com/images/volunteer.jpg" alt="Volunteer" width="80%"/>
@@ -55,23 +54,103 @@
         </li>
         <li>
           <a href="https://www.facebook.com/intergreatvietnam" target="_blank">
-            <strong>Ambassador:</strong> Ambassador.
+            <strong>InterGreat Việt Nam r:</strong> Ambassador.
           </a>
           <p align="center">
             <img src="https://example.com/images/soccer_team.jpg" alt="Đội bóng đá" width="80%"/>
           </p>
         </li>
         <li>
-          <a href="https://example.com/am-nhac" target="_blank">
-            <strong>Âm nhạc:</strong> Tham gia biểu diễn và tổ chức sự kiện âm nhạc tại trường.
+          <a href="https://www.facebook.com/ieltsonlinetests" target="_blank">
+            <strong>IELTS Online Tests:</strong> Ambassador.
           </a>
           <p align="center">
             <img src="https://example.com/images/music_event.jpg" alt="Sự kiện Âm nhạc" width="80%"/>
           </p>
         </li>
         <li>
-          <a href="https://example.com/hoi-thao" target="_blank">
-            <strong>Hội thảo:</strong> Tham dự và tổ chức các buổi hội thảo về phát triển bản thân và kỹ năng mềm.
+          <a href="https://www.facebook.com/saovangdatvietdnt" target="_blank">
+            <strong>Giải thưởng Sao Vàng Đất Việt:</strong> Invitee.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/groups/binhdanhocai" target="_blank">
+            <strong>SMCC Project:</strong> Relief information seeker: Use SMCC to find relief information from people within Vietnam and update the situation for the rescue team.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/elab.vinuni" target="_blank">
+            <strong>Entrepreneurship at VinUniversity :</strong> Ambassador.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/fptsoftware.official" target="_blank">
+            <strong>FPT Sofware:</strong> Student Ambassador Candidate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/imunofficial" target="_blank">
+            <strong>International MUN :</strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/internationalmodelun" target="_blank">
+            <strong>Asia Youth International MUN strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/asiaworldmun" target="_blank">
+            <strong>Asia World Model United Nations :</strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/unitednations" target="_blank">
+            <strong>United Nations:</strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/WHO" target="_blank">
+            <strong>World Health Organization (WHO) :</strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/undpvietnam" target="_blank">
+            <strong>UNDP in Việt Nam :</strong> Official Delegate.
+          </a>
+          <p align="center">
+            <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
+          </p>
+        </li>
+       <li>
+          <a href="https://www.facebook.com/AustralianEmbassyVietnam" target="_blank">
+            <strong>Australian Embassy, Vietnam :</strong> Official Delegate.
           </a>
           <p align="center">
             <img src="https://example.com/images/workshop.jpg" alt="Hội thảo" width="80%"/>
