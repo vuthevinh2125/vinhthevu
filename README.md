@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [University of Greenwich](https://www.gre.ac.uk/) (Gre).
 
-- 🌱 I’m currently learning Studies Computer Science & Engineering (CSE)
+- 🌱 I’m currently learning Studies Computer Science & Engineering (CSE) 
 
 <br />
 
