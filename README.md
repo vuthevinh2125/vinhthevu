@@ -38,7 +38,7 @@
       <ul>
         <li>
           <a href="https://www.facebook.com/greenwichitclub" target="_blank">
-            <strong>Câu lạc bộ Công nghệ:</strong> Tham gia và đóng góp vào các dự án công nghệ của trường.
+            <strong>Greenwich IT Club:</strong> Head of Content and Planning
           </a>
           <p align="center">
             <img src=![image](https://github.com/user-attachments/assets/0bc15fd0-93bd-4b5f-92a9-46975686249e)
